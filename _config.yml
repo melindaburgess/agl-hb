@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: AGL Handbook
 email: contact@agilegovleaders.org
-description: > Agile Government Leaders (AGL) handbook.
+description: Agile Government Leaders (AGL) handbook.
 baseurl: "/agl-hb" # the subpath of your site, e.g. /blog
 url: "http://www.bengm.us/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: agilegovleaders
@@ -29,3 +29,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  sections:
+    output: false
