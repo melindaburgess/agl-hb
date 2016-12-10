@@ -2,7 +2,13 @@
 
 ## Editing Content
 
+All of the site content is in the `_sections/` folder. The simplest way is to browse wihtin github to the section file to edit, and edit in your web browser via github. Github also allows for adding new section files. Note that the files are in markdown format with metadata in headers.
+
 ### Markdown
+
+Markdown is a simple text formatting. Editing in github allows you to preview how it will look. More info:
+ * [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ * [Official Docs](https://help.github.com/categories/writing-on-github/)
 
 ### Section Metadata
 
@@ -23,8 +29,14 @@ The metadata you can provide are:
  * __style (optional):__ Section styling, which defaults to white background. Options: white, black, grey.
  * __youtube_video_id (optional):__ If present, this will embed a video after section content. The id is the alphanumeric code such as "0XpAtr24uUQ". This can be found in the video's URL, e.g. the bit after `v=` in `https://www.youtube.com/watch?v=0XpAtr24uUQ`.
 
+## Contributing
+
+__Note to admins: as soon as you merge/save content into the master branch, it will be published to the live site.__
+
 ## Maintaining the Template
 
 To make changes to the overall page template to stay in coordination with the overall AGL site, edit `layouts/agl.html`. This would include major style changes or updated top-level navigation, footer info, etc.
 
 ## Running Locally
+
+The site is built using Jekyll, the standard tool for github pages. See [github pages docs](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/) for more info on running locally. This is not necessary for most content work, but is highly recommended for any template changes.
