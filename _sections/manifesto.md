@@ -12,7 +12,8 @@ Through this work we have come to value:
 * Working software over comprehensive documentation
 * Customer collaboration over contract negotiation
 * Responding to change over following a plan
-* That is, while there is value in the items on the right, we value the items on the left more.”
+
+That is, while there is value in the items on the right, we value the items on the left more.
 
 ### Principles behind the Manifesto
 
