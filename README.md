@@ -14,25 +14,25 @@ _Note on raw HTML:_ You can mix raw HTML within a markdown document, but _cannot
 
 ... this is fine
 
-'''markdown
-# My Header
-<ul>
-  <li>an item</li>
-  <li><em>another</em> item</li>
-</ul>
-[My link](http://google.com)
-'''
+```
+  # My Header
+  <ul>
+    <li>an item</li>
+    <li><em>another</em> item</li>
+  </ul>
+  [My link](http://google.com)
+```
 
 ... this is not fine (the asterisks will be displayed on the rendered page)
 
-'''markdown
+```
 # My Header
 <ul>
   <li>an item</li>
   <li>*another* item</li>
 </ul>
 [My link](http://google.com)
-'''
+```
 
 ### Section Metadata
 
