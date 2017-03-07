@@ -3,7 +3,7 @@
     <div class="fusion-three-fourth fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:0px;">
       <div class="fusion-column-wrapper">
         <div class="fusion-title title fusion-sep-none fusion-title-size-two" style="margin-top:0px;margin-bottom:0px;">
-          {% if include.section.title !== "Internal_nav" %}
+          {% if include.section.title != "Internal_nav" %}
             <h2 class="title-heading-left" id="{{include.section.title|slugify}}">({{include.section.title}})</h2></div>
           {% endif %}
           {{include.section.content}}
