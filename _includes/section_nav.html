@@ -1,3 +1,5 @@
+{% assign nav_sections = "About Agile|Agile Manifesto" | split: "|" %}
+
 <!-- NOTE: this page is currently unused in favor of manually listing the sections in _sections/internal_nav.md -->
 
 <div class="fusion-fullwidth fullwidth-box fusion-fullwidth-7  fusion-parallax-none nonhundred-percent-fullwidth" style="border-color:#eae9e9;border-bottom-width: 0px;border-top-width: 0px;border-bottom-style: solid;border-top-style: solid;padding-bottom:40px;padding-top:00px;padding-left:0px;padding-right:0px;background-color:rgba(255,255,255,0);">
@@ -5,8 +7,8 @@
     <div class="fusion-one-full fusion-layout-column fusion-column-last fusion-spacing-yes" style="margin-top:0px;margin-bottom:0px;">
       <div class="fusion-column-wrapper">
         <div class="fusion-title title fusion-sep-none fusion-title-size-two" style="margin-top:0px;margin-bottom:0px;">
-          {% for section in ordered_sections %}
-            <a href="#{{section.title|slugify}}" style="padding-right: 30px;">{{section.title}}</a>
+          {% for section in nav_sections %}
+            <a href="#{{section|slugify}}" style="padding-right: 30px;">{{section}}</a>
           {% endfor %}
         <div class="fusion-clearfix"></div>
         </div>
