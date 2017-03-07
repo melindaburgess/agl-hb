@@ -1,4 +1,5 @@
 ---
+title: Internal Nav
 order: 010
 style: white
 # NOTE: Enter in the list of sections, with the exact section title, below
