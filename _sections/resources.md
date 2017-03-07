@@ -6,6 +6,7 @@ style: grey
 
 ### Case Studies
 
+
 **[Agile Government and The Department of Justice](http://www.agilegovleaders.org/case-studies/doj/)**
 See how agile methods can reduce the risks in modernizing legacy systems with many stakeholders.
 
@@ -19,10 +20,12 @@ Think big, start small - and make course corrections quickly to ensure project s
 Good training and prioritization are keys to success for projects at the BBC.
 
 **[Agile Government and the General Services Administration (Integrated Award Environment)](http://www.agilegovleaders.org/case-studies/gsa/)**
+
 How to keep the big picture in mind, while breaking the project into manageable chunks.
 
 
 ### Directives / Initiatives
+
 
 **[U.S. Digital Services Playbook](https://playbook.cio.gov/)**
 13 key “plays” that help agencies apply effective digital strategies from the private sector.
@@ -48,6 +51,7 @@ The GAO identifies practices that help agencies more effectively implement agile
 
 ### Books
 
+
 **[Agile Project Management for Government](http://www.amazon.com/Agile-Project-Management-Government-Wernham/dp/0957223404)**
 The indispensable guide to agile leadership for the public sector.
 
@@ -62,6 +66,7 @@ Mark Schwartz of USDS explains what business value means and how it should affec
 
 
 ### White papers
+
 
 **[The new government leader: Mobilizing agile public leadership in disruptive times](http://dupress.com/articles/the-new-government-leader-mobilizing-agile-public-leadership-in-disruptive-times/)**
 How to lead effectively in a world where citizens expect real-time engagement.

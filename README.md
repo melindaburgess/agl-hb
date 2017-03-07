@@ -4,6 +4,10 @@
 
 All of the site content is in the `_sections/` folder. The simplest way is to browse wihtin github to the section file to edit, and edit in your web browser via github. Github also allows for adding new section files. Note that the files are in markdown format with metadata in headers.
 
+### Internal Page Navigation
+
+There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `_sections/internal_nav.md` and change the list starting about line 7 under the label `navigation_sections:`.
+
 ### Markdown
 
 Markdown is a simple text formatting. Editing in github allows you to preview how it will look. More info:
