@@ -6,7 +6,7 @@ All of the site content is in the `_sections/` folder. The simplest way is to br
 
 ### Internal Page Navigation
 
-There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.md` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
+There is a special section "internal_nav" which controls the red links that navigate to sections. To change the list of sections, simply open `includes/section_nav.html` and change the list starting on line 2. Note that the list is pipe (|) delimited, so the list in quotes should look like `"About Agile|Next Section Title|Third Link"`. Each title should correspond to the exact section title specified in the respective `_sections/` file.
 
 ### Markdown
 
