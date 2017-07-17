@@ -33,6 +33,9 @@ Firms should “show, not tell” what they can do for government IT, proving th
 **[READ: ACT-IAC Acquisition Best Practices to Procure Agile IT Services](https://www.actiac.org/system/files/Best%20Practices%20to%20Procure%20Agile%20IT%20Services%20-%20ET%20SIG%2003-2014.pdf)**  
 Federal leaders share ideas for achieving benefits of agile within current acquisition frameworks. (1 hr)
 
+**[READ: Lessons Learned From the Government's Biggest Attempt to Fix Tech Procurement](https://medium.com/@EricHysen/lessons-learned-from-the-governments-biggest-attempt-to-fix-tech-procurement-bd2265421211)**
+An insider's look at DHS' efforts to create an agile procurement vehicle. (15 min) 
+
 **[WATCH: Agile Acquisitions 101](https://www.fai.gov/media_library/items/show/81)**  
 Examples and tips on how agile acquisition has been successful in Federal government. (1.5 hrs)
 
